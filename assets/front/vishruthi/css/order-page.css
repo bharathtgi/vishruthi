@@ -1,0 +1,84 @@
+.order h2 {
+    font-size: 30px;
+    color: #242424;
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.order-id h3 {
+    font-size: 18px;
+    background: #d9145d;
+    padding: 10px 25px;
+    color: #fff;
+    font-weight: 600;
+}
+.order-detail {
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.ordered-details ul {
+    padding-bottom: 30px;
+    padding-top: 15px;
+    margin-left: 10px;
+}
+.ordered-details ul li {
+    line-height: 35px;
+}
+.ordered-details ul span {
+    color: #000;
+    font-weight: 600;
+}
+.order-table h5 {
+    font-size: 18px;
+    background: #d9145d;
+    padding: 10px 25px;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+td.right {
+    text-align: right !important;
+}
+.icon i {
+    border: 1px solid #d9145d;
+    padding: 15px;
+    border-radius: 50%;
+    background: #d9145d;
+    color: #fff;
+    font-size: 40px;
+}
+.thankyou-content p {
+    font-size: 15px;
+    line-height: 15px;
+    color: #242424;
+}
+.thankyou-content h1 {
+    font-size: 60px;
+    padding-bottom: 30px;
+    color: #d9145d;
+}
+.icon {
+    padding: 50px;
+}
+.customer_login.cart {
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+.thankyou-content strong {
+    color: #d9145d;
+}
+.thankyou-content a {
+    background: #d9145d;
+    color: #fff;
+    padding: 13px 40px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    transition: 0.5s;
+}
+.thankyou-content a:hover {
+    background: #242424;
+    transition: 0.5s;
+}
