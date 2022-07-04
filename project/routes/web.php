@@ -25,6 +25,7 @@ Route::prefix('admin')->group(function() {
   Route::post('/forgot', 'Admin\LoginController@forgot')->name('admin.forgot.submit');
   Route::get('/logout', 'Admin\LoginController@logout')->name('admin.logout');
   Route::get('/logout', 'Admin\LoginController@logout')->name('admin.logout1');
+  Route::get('/logout', 'Admin\LoginController@logout')->name('admin.logout2');
 
   //------------ ADMIN LOGIN SECTION ENDS ------------
 
